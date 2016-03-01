@@ -1,6 +1,5 @@
 //: Playground - Week 2 Assignment
 
-
 /*
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 Generar un rango de 0 a 100, incluye el número 100 en el rango.
